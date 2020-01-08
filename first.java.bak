@@ -1,6 +1,8 @@
 public class Infoed{
-
 	public void print(){
-		System.out.println();
+		if(ture){
+			System.out.println(
+		}
+		System.out.println("Renjianyou!!  is my username");
 	}
 }
