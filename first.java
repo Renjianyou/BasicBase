@@ -11,7 +11,10 @@ public class Infoed{
 				break;
 			case:j
 				break;
+			default:
+				System.out.println("equals");
 		}
 		System.out.println("Renjianyou!!  is my username");
+		
 	}
 }
